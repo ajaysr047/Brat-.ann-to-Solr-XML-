@@ -1,0 +1,70 @@
+<add>
+  <doc>
+    <field name="id">404</field>
+    <field name="VERSE">Verse 11</field>
+  </doc>
+  <doc>
+    <field name="id">405</field>
+    <field name="ORIGINAL">अयनेषु च सर्वेषु यथाभागमवस्थिता: | भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि || 11|</field>
+  </doc>
+  <doc>
+    <field name="id">406</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">407</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">408</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">409</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">410</field>
+    <field name="MEANING_OF_TEXT">Therefore, I call upon all the generals of the Kaurava army now to give full support to Grandsire Bheeshma, even as you defend your respective strategic points.</field>
+  </doc>
+  <doc>
+    <field name="id">411</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">412</field>
+    <field name="POSITION_IN_ARMY">generals</field>
+  </doc>
+  <doc>
+    <field name="id">413</field>
+    <field name="POSITION_IN_ARMY">military phalanx</field>
+  </doc>
+  <doc>
+    <field name="id">414</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">415</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">416</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">417</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">418</field>
+    <field name="POSITION_IN_ARMY">the Kaurava generals</field>
+  </doc>
+  <doc>
+    <field name="id">419</field>
+    <field name="WARRIORS">military phalanx</field>
+  </doc>
+  <doc>
+    <field name="id">420</field>
+    <field name="POSITION_IN_ARMY">generals</field>
+  </doc>
+</add>

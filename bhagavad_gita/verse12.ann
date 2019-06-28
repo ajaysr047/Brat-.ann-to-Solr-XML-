@@ -1,0 +1,35 @@
+T1	VERSE 33 41	Verse 12
+T2	EMOTIONS 58 63	हर्षं
+T3	REFERING_DYNASTY 64 74	कुरुवृद्ध:
+T4	FAMILY_MEMBER 75 82	पितामह:
+T5	METAPHORICAL_REFERENCE 85 93	सिंहनादं
+T6	REFERING_DYNASTY 288 292	Kuru
+T7	NAME 325 333	Bheeshma
+T8	METAPHORICAL_REFERENCE 335 353	roared like a lion
+T9	NAME 407 416	Duryodhan
+T10	DEITY 506 524	Lord Shree Krishna
+T11	CHARACTERESTICS 498 505	Supreme
+T12	FAMILY_MEMBER 578 590	grand-nephew
+T13	EMOTIONS 593 600	anxiety
+T14	NAME 814 821	Kaurava
+T15	CHARACTERESTICS 119 129	प्रतापवान्
+T16	ORIGINAL 45 84;85 136	तस्य सञ्जनयन्हर्षं कुरुवृद्ध: पितामह: | सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान् || 12|
+T17	MEANING_OF_TEXT 257 417	Then, the grand old man of the Kuru dynasty, the glorious patriarch Bheeshma, roared like a lion, and blew his conch shell very loudly, giving joy to Duryodhan.
+T18	EMOTIONS 608 613	cheer
+T19	EMOTIONS 869 873	pain
+T20	REFERING_DYNASTY 289 293	Kuru
+T21	NATURE 307 315	glorious
+T22	METAPHORICAL_REFERENCE 336 354	roared like a lion
+T23	MUSICAL_INSTRUMENTS 369 380	conch shell
+T24	EMOTIONS 401 404	joy
+T25	NAME 408 417	Duryodhan
+T26	NAME 587 595	Bheeshma
+T27	CHARACTERESTICS 654 661	Supreme
+T28	DEITY 662 680	Lord Shree Krishna
+T29	REFERING_DYNASTY 434 441	कुरुवंश
+T30	NAME 473 478	भीष्म
+T31	TITLE 466 472	पितामह
+T32	FAMILY_MEMBER 734 746	grand-nephew
+T33	MUSICAL_INSTRUMENTS 789 800	conch shell
+T34	EMOTIONS 764 769	cheer
+T35	EMOTIONS 1025 1029	pain

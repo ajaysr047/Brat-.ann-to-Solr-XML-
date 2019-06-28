@@ -1,0 +1,210 @@
+<add>
+  <doc>
+    <field name="id">352</field>
+    <field name="VERSE">Verse 10</field>
+  </doc>
+  <doc>
+    <field name="id">353</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">354</field>
+    <field name="NAME">Pandav</field>
+  </doc>
+  <doc>
+    <field name="id">355</field>
+    <field name="NAME">Bheem</field>
+  </doc>
+  <doc>
+    <field name="id">356</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">357</field>
+    <field name="ORIGINAL">अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्</field>
+  </doc>
+  <doc>
+    <field name="id">358</field>
+    <field name="NAME">भीष्मा</field>
+  </doc>
+  <doc>
+    <field name="id">359</field>
+    <field name="CHARACTERESTICS">बलं</field>
+  </doc>
+  <doc>
+    <field name="id">360</field>
+    <field name="NAME">भीमा</field>
+  </doc>
+  <doc>
+    <field name="id">361</field>
+    <field name="MEANING_OF_TEXT">The strength of our army is unlimited and we are safely marshalled by Grandsire Bheeshma, while the strength of the Pandava army, carefully marshalled by Bheem, is limited</field>
+  </doc>
+  <doc>
+    <field name="id">362</field>
+    <field name="CHARACTERESTICS">strength</field>
+  </doc>
+  <doc>
+    <field name="id">363</field>
+    <field name="TITLE">commander-in-chief</field>
+  </doc>
+  <doc>
+    <field name="id">364</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">365</field>
+    <field name="TIME">his death</field>
+  </doc>
+  <doc>
+    <field name="id">366</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">367</field>
+    <field name="CHARACTERESTICS">undefeatable</field>
+  </doc>
+  <doc>
+    <field name="id">368</field>
+    <field name="POETIC_EMBELLISHMENT">Vinaash kale vipreet buddhi</field>
+  </doc>
+  <doc>
+    <field name="id">369</field>
+    <field name="CHARACTERESTICS">egoistic</field>
+  </doc>
+  <doc>
+    <field name="id">370</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">371</field>
+    <field name="NAME">Kauravas</field>
+  </doc>
+  <doc>
+    <field name="id">372</field>
+    <field name="NAME">Pandavas</field>
+  </doc>
+  <doc>
+    <field name="id">373</field>
+    <field name="NAME">Kuru</field>
+  </doc>
+  <doc>
+    <field name="id">374</field>
+    <field name="PLACE">Hastinapu</field>
+  </doc>
+  <doc>
+    <field name="id">375</field>
+    <field name="CHARACTERESTICS">enigmatic personality</field>
+  </doc>
+  <doc>
+    <field name="id">376</field>
+    <field name="NATURE">Dharma</field>
+  </doc>
+  <doc>
+    <field name="id">377</field>
+    <field name="NATURE">Adharma</field>
+  </doc>
+  <doc>
+    <field name="id">378</field>
+    <field name="DEITY">Lord Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">379</field>
+    <field name="NATURE">Supreme</field>
+  </doc>
+  <doc>
+    <field name="id">380</field>
+    <field name="NATURE">holy</field>
+  </doc>
+  <doc>
+    <field name="id">381</field>
+    <field name="PLACE">Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">382</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">383</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">384</field>
+    <field name="NAME">Bheem</field>
+  </doc>
+  <doc>
+    <field name="id">385</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">386</field>
+    <field name="TITLE">पितामह</field>
+  </doc>
+  <doc>
+    <field name="id">387</field>
+    <field name="NAME">भीम</field>
+  </doc>
+  <doc>
+    <field name="id">388</field>
+    <field name="POSITION_IN_ARMY">commander-in-chief</field>
+  </doc>
+  <doc>
+    <field name="id">389</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">390</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">391</field>
+    <field name="PROVERB">Vinaash kale vipreet buddhi</field>
+  </doc>
+  <doc>
+    <field name="id">392</field>
+    <field name="CHARACTERESTICS">egoistic</field>
+  </doc>
+  <doc>
+    <field name="id">393</field>
+    <field name="REFERING_DYNASTY">Kuru</field>
+  </doc>
+  <doc>
+    <field name="id">394</field>
+    <field name="PLACE">Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">395</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">396</field>
+    <field name="NATURE">holy</field>
+  </doc>
+  <doc>
+    <field name="id">397</field>
+    <field name="CHARACTERESTICS">upreme</field>
+  </doc>
+  <doc>
+    <field name="id">398</field>
+    <field name="DEITY">Lord Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">399</field>
+    <field name="CHARACTERESTICS">Adharma</field>
+  </doc>
+  <doc>
+    <field name="id">400</field>
+    <field name="CHARACTERESTICS">Dharma</field>
+  </doc>
+  <doc>
+    <field name="id">401</field>
+    <field name="CHILDREN">Pandavas</field>
+  </doc>
+  <doc>
+    <field name="id">402</field>
+    <field name="CHARACTERESTICS">enigmatic personality</field>
+  </doc>
+  <doc>
+    <field name="id">403</field>
+    <field name="CHARACTERESTICS">strength</field>
+  </doc>
+</add>

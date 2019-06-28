@@ -1,0 +1,126 @@
+<add>
+  <doc>
+    <field name="id">226</field>
+    <field name="VERSE_NUMBER">Verse 7</field>
+  </doc>
+  <doc>
+    <field name="id">227</field>
+    <field name="ORIGINAL">अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || 7||</field>
+  </doc>
+  <doc>
+    <field name="id">228</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">229</field>
+    <field name="PLACE">battlefield</field>
+  </doc>
+  <doc>
+    <field name="id">230</field>
+    <field name="TITLE">commanders</field>
+  </doc>
+  <doc>
+    <field name="id">231</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">232</field>
+    <field name="NATURE">Cunning</field>
+  </doc>
+  <doc>
+    <field name="id">233</field>
+    <field name="CHARACTERESTICS">valor</field>
+  </doc>
+  <doc>
+    <field name="id">234</field>
+    <field name="PLACE">palace</field>
+  </doc>
+  <doc>
+    <field name="id">235</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">236</field>
+    <field name="POSITION_IN_ARMY">नायका</field>
+  </doc>
+  <doc>
+    <field name="id">237</field>
+    <field name="POSITION_IN_ARMY">principal generals</field>
+  </doc>
+  <doc>
+    <field name="id">238</field>
+    <field name="PURPOSE">to lead</field>
+  </doc>
+  <doc>
+    <field name="id">239</field>
+    <field name="CHARACTERESTICS">qualified</field>
+  </doc>
+  <doc>
+    <field name="id">240</field>
+    <field name="WARRIORS">योद्धाओं</field>
+  </doc>
+  <doc>
+    <field name="id">241</field>
+    <field name="CHARACTERESTICS">शक्तिशाली</field>
+  </doc>
+  <doc>
+    <field name="id">242</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">243</field>
+    <field name="SUBJECT">military science</field>
+  </doc>
+  <doc>
+    <field name="id">244</field>
+    <field name="POSITION_IN_ARMY">the commanders</field>
+  </doc>
+  <doc>
+    <field name="id">245</field>
+    <field name="REFERING_DYNASTY">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">246</field>
+    <field name="PLACE">battlefield</field>
+  </doc>
+  <doc>
+    <field name="id">247</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">248</field>
+    <field name="NATURE">Cunning</field>
+  </doc>
+  <doc>
+    <field name="id">249</field>
+    <field name="EMOTIONS">loyalty</field>
+  </doc>
+  <doc>
+    <field name="id">250</field>
+    <field name="SUBJECT">dwijottama</field>
+  </doc>
+  <doc>
+    <field name="id">251</field>
+    <field name="DESCRIPTION">best amongst the twice-born, or Brahmins</field>
+  </doc>
+  <doc>
+    <field name="id">252</field>
+    <field name="CHARACTERESTICS">valor</field>
+  </doc>
+  <doc>
+    <field name="id">253</field>
+    <field name="PLACE">king’s palace</field>
+  </doc>
+  <doc>
+    <field name="id">254</field>
+    <field name="POSITION_IN_ARMY">generals</field>
+  </doc>
+  <doc>
+    <field name="id">255</field>
+    <field name="NATURE">great</field>
+  </doc>
+  <doc>
+    <field name="id">256</field>
+    <field name="CONNOTATION">भावार्थ</field>
+  </doc>
+</add>

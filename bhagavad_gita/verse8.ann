@@ -1,0 +1,65 @@
+T1	ORIGINAL 42 83;84 128	भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जय: | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च || 8||
+T2	NAME 47 52	भीष्म
+T3	NAME 56 60	कर्ण
+T4	NAME 64 67	कृप
+T5	NAME 84 94	अश्वत्थामा
+T6	NAME 95 101	विकर्ण
+T7	MEANING_OF_TEXT 248 382	There are personalities like yourself, Bheeshma, Karna, Kripa, Ashwatthama, Vikarn, and Bhurishrava, who are ever victorious in battle
+T8	NAME 287 295	Bheeshma
+T9	NAME 297 302	Karna
+T10	NAME 304 309	Kripa
+T11	NAME 311 322	Ashwatthama
+T12	NAME 324 330	Vikarn
+T13	NAME 336 347	Bhurishrava
+T14	NAME 452 459	Pandava
+T15	NAME 468 478	Duryodhana
+T16	NAME 644 649	Drona
+T17	EMOTIONS 711 717	scared
+T18	EMOTIONS 730 737	angered
+T19	SUBJECT 1419 1434	three qualities
+T20	SUBJECT 1438 1448	tendencies
+T21	DESCRIPTION 1450 1490	a tendency that draws us towards inertia
+T22	DESCRIPTION 1500 1523	that draws us to action
+T23	DESCRIPTION 1537 1564	that draws us to equanimity
+T24	NATURE 1018 1022	good
+T25	NATURE 1026 1030	evil
+T26	NATURE 1081 1085	evil
+T27	CHARACTERESTICS 1236 1249	bad qualities
+T28	CHARACTERESTICS 1177 1191	good qualities
+T29	OVERVIEW 386 396	Commentary
+T30	VERSE 33 40	Verse 8
+T31	NAME 288 296	Bheeshma
+T32	NAME 298 303	Karna
+T33	NAME 305 310	Kripa
+T34	NAME 312 323	Ashwatthama
+T35	NAME 325 331	Vikarn
+T36	NAME 337 348	Bhurishrava
+T37	CHARACTERESTICS 363 373	victorious
+T38	TITLE 434 440	पितामह
+T39	NAME 441 446	भीष्म
+T40	NAME 448 451	कर्
+T41	NAME 454 462	कृपाचार्
+T42	NAME 465 475	अश्वत्थामा
+T43	NAME 477 482	विकर्
+T44	KING 487 493	सोमदत्
+T45	NAME 504 513	भूरिश्रवा
+T46	WARRIORS 519 525	योद्धा
+T47	WARRIORS 634 648	Pandava’s side
+T48	NAME 650 660	Duryodhana
+T49	NAME 826 831	Drona
+T50	EMOTIONS 893 899	scared
+T51	EMOTIONS 912 919	angered
+T52	POSITION_IN_ARMY 931 945	main commander
+T53	CHARACTERESTICS 1044 1052	powerful
+T54	NATURE 1200 1204	good
+T55	NATURE 1208 1212	evil
+T56	CHARACTERESTICS 1359 1373	good qualities
+T57	CHARACTERESTICS 1418 1431	bad qualities
+T58	COLLECTION 1445 1449	Gita
+T59	SUBJECT 1601 1616	three qualities
+T60	SUBJECT 1620 1630	tendencies
+T61	DESCRIPTION 1632 1672	a tendency that draws us towards inertia
+T62	DESCRIPTION 1682 1705	that draws us to action
+T63	DESCRIPTION 1719 1746	that draws us to equanimity
+T64	DESCRIPTION 1750 1757	harmony
+T65	CONNOTATION 387 394	भावार्थ

@@ -1,0 +1,91 @@
+T1	VERSE 35 44	Verse 4-6
+T2	ORIGINAL 48 85;86 127;129 171;172 216;218 264;265 301	अत्र शूरा महेष्वासा भीमार्जुनसमा युधि युयुधानो विराटश्च द्रुपदश्च महारथ: || 4|| धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैयश्च नरपुङ्गव: || 5|| युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथा:
+T3	NATURE 646 663	powerful warriors
+T4	NAME 670 697	Yuyudhan, Virat, and Drupad
+T5	NAME 810 892	Dhrishtaketu, Chekitan, the gallant King of Kashi, Purujit, Kuntibhoj, and Shaibya
+T6	DESCRIPTION 1042 1074	who are all great warrior chiefs
+T8	NAME 960 1040	Yudhamanyu, the gallant Uttamauja, the son of Subhadra, and the sons of Draupadi
+T7	MEANING_OF_TEXT 600 611	Translation
+T10	HISTORICAL_INFORMATION 914 1075	In their ranks, they also have the courageous Yudhamanyu, the gallant Uttamauja, the son of Subhadra, and the sons of Draupadi, who are all great warrior chiefs.
+T11	NAME 1148 1157	Duryodhan
+T9	NAME 753 758	Bheem
+T12	NAME 763 768	Arjun
+T13	EMOTIONS 1100 1107	anxiety
+T14	SUBJECT 1394 1408	the mahārathīs
+T15	DESCRIPTION 1410 1491	warriors who were singly equivalent in strength to ten thousand ordinary warriors
+T16	OVERVIEW 1089 1638	Due to his anxiety, the Pandava army seemed much larger to Duryodhan than it actually was. He had never expected his opponents would mobilize an army of warriors with such military prowess, who would be formidable in battle. Out of fear of the looming catastrophe, he started enumerating the names of all the mahārathīs (warriors who were singly equivalent in strength to ten thousand ordinary warriors) gathered on the Pandava side. They were all exceptional heroes, and great military commanders, equivalent in valor to his cousins Arjun and Bheem
+T17	NAME 762 767	Arjun
+T18	NAME 752 757	Bheem
+T19	PLACE 853 858	Kashi
+T20	NAME 809 821	Dhrishtaketu
+T21	NAME 823 831	Chekitan
+T22	NAME 860 866	Puruji
+T23	NAME 869 878	Kuntibhoj
+T24	NAME 884 891	Shaibya
+T25	NAME 1005 1013	Subhadra
+T26	NAME 983 992	Uttamauja
+T27	NAME 1031 1039	Draupadi
+T28	EMOTIONS 1099 1106	anxiety
+T29	NAME 1112 1119	Pandava
+T30	DESCRIPTION 1137 1143	larger
+T31	NAME 1147 1156	Duryodhan
+T32	NAME 690 696	Drupad
+T33	NAME 679 684	Virat
+T34	NAME 669 677	Yuyudhan
+T35	NAME 959 969	Yudhamanyu
+T36	SUBJECT 1393 1407	the mahārathīs
+T37	DESCRIPTION 1408 1490	(warriors who were singly equivalent in strength to ten thousand ordinary warriors
+T38	NATURE 645 653	powerful
+T39	OVERVIEW 1076 1086	Commentary
+T40	ORIGINAL 47 84;85 126;128 170;171 215;217 263;264 300	अत्र शूरा महेष्वासा भीमार्जुनसमा युधि युयुधानो विराटश्च द्रुपदश्च महारथ: || 4|| धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैयश्च नरपुङ्गव: || 5|| युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथा:
+T41	NAME 67 79	भीमार्जुनसमा
+T42	NAME 1508 1515	Pandava
+T43	DESCRIPTION 1053 1073	great warrior chiefs
+T44	MEANING_OF_TEXT 599 610	Translation
+T45	NAME 85 93	युयुधानो
+T46	NAME 94 102	विराटश्च
+T47	NAME 103 112	द्रुपदश्च
+T48	DESCRIPTION 113 118	महारथ
+T49	NAME 128 146	धृष्टकेतुश्चेकितान
+T50	NAME 148 158	काशिराजश्च
+T51	CHARACTERESTICS 159 168	वीर्यवान्
+T52	NAME 171 191	पुरुजित्कुन्तिभोजश्च
+T53	NAME 192 198	शैयश्च
+T54	NAME 192 198	शैयश्च
+T55	SUBJECT 293 299	महारथा
+T56	NAME 264 271	सौभद्रो
+T57	NAME 272 284	द्रौपदेयाश्च
+T58	NAME 668 676	Yuyudhan
+T59	NAME 678 683	Virat
+T60	NAME 751 756	Bheem
+T61	NAME 761 766	Arjun
+T62	KING 808 820	Dhrishtaketu
+T63	KING 822 830	Chekitan
+T64	PLACE 852 857	Kashi
+T65	KING 859 866	Purujit
+T66	KING 868 877	Kuntibhoj
+T67	NAME 883 890	Shaibya
+T68	NAME 958 968	Yudhamanyu
+T69	NAME 982 991	Uttamauja
+T70	NAME 1004 1012	Subhadra
+T71	NAME 1030 1038	Draupadi
+T72	NAME 1099 1102	भीम
+T73	NAME 1107 1113	अर्जुन
+T74	NAME 1165 1170	विराट
+T75	NAME 689 695	Drupad
+T76	NAME 1174 1180	द्रुपद
+T77	KING 1243 1250	काशीराज
+T78	KING 1231 1238	चेकितान
+T79	KING 1220 1229	धृष्टकेतु
+T80	KING 1274 1282	पुरुजित्
+T81	KING 1284 1293	कुन्तीभोज
+T82	KING 1298 1303	शैब्य
+T83	NAME 1577 1586	Duryodhan
+T84	CHILDREN 1542 1549	Pandava
+T85	SUBJECT 1823 1837	the mahārathīs
+T86	DESCRIPTION 1839 1920	warriors who were singly equivalent in strength to ten thousand ordinary warriors
+T87	NAME 2052 2057	Arjun
+T88	NAME 2062 2067	Bheem
+T89	CONNOTATION 1075 1082	भावार्थ
+T90	POSITION_IN_ARMY 1058 1072	warrior chiefs
+T91	CHARACTERESTICS 1052 1057	great

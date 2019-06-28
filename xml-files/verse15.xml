@@ -1,0 +1,162 @@
+<add>
+  <doc>
+    <field name="id">530</field>
+    <field name="VERSE">Verse 15</field>
+  </doc>
+  <doc>
+    <field name="id">531</field>
+    <field name="ORIGINAL">पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जय: | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदर: || 15|</field>
+  </doc>
+  <doc>
+    <field name="id">532</field>
+    <field name="MUSICAL_INSTRUMENTS">पाञ्चजन्यं</field>
+  </doc>
+  <doc>
+    <field name="id">533</field>
+    <field name="DEITY">हृषीकेशो</field>
+  </doc>
+  <doc>
+    <field name="id">534</field>
+    <field name="MUSICAL_INSTRUMENTS">देवदत्</field>
+  </doc>
+  <doc>
+    <field name="id">535</field>
+    <field name="NAME">धनञ्जय:</field>
+  </doc>
+  <doc>
+    <field name="id">536</field>
+    <field name="MUSICAL_INSTRUMENTS">पौण्ड्रं</field>
+  </doc>
+  <doc>
+    <field name="id">537</field>
+    <field name="MEANING_OF_TEXT">Hrishikesh blew his conch shell, called Panchajanya, and Arjun blew the Devadutta. Bheem, the voracious eater and performer of herculean tasks, blew his mighty conch, called Paundra</field>
+  </doc>
+  <doc>
+    <field name="id">538</field>
+    <field name="DEITY">Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">539</field>
+    <field name="SUBJECT">Hrishikesh</field>
+  </doc>
+  <doc>
+    <field name="id">540</field>
+    <field name="DESCRIPTION">the Lord of the mind and senses</field>
+  </doc>
+  <doc>
+    <field name="id">541</field>
+    <field name="SUBJECT">Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">542</field>
+    <field name="DESCRIPTION">Sovereign Master</field>
+  </doc>
+  <doc>
+    <field name="id">543</field>
+    <field name="NAME">Hrishikesh</field>
+  </doc>
+  <doc>
+    <field name="id">544</field>
+    <field name="NAME">Panchajanya</field>
+  </doc>
+  <doc>
+    <field name="id">545</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">546</field>
+    <field name="MUSICAL_INSTRUMENTS">Devadutta</field>
+  </doc>
+  <doc>
+    <field name="id">547</field>
+    <field name="NAME">Bheem</field>
+  </doc>
+  <doc>
+    <field name="id">548</field>
+    <field name="NAME">Paundra</field>
+  </doc>
+  <doc>
+    <field name="id">549</field>
+    <field name="MUSICAL_INSTRUMENTS">conch</field>
+  </doc>
+  <doc>
+    <field name="id">550</field>
+    <field name="CHARACTERESTICS">mighty</field>
+  </doc>
+  <doc>
+    <field name="id">551</field>
+    <field name="OVERVIEW">Commentary</field>
+  </doc>
+  <doc>
+    <field name="id">552</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shell</field>
+  </doc>
+  <doc>
+    <field name="id">553</field>
+    <field name="NAME">Hrishikesh</field>
+  </doc>
+  <doc>
+    <field name="id">554</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shell</field>
+  </doc>
+  <doc>
+    <field name="id">555</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">Panchajanya</field>
+  </doc>
+  <doc>
+    <field name="id">556</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">557</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">Devadutta</field>
+  </doc>
+  <doc>
+    <field name="id">558</field>
+    <field name="NAME">Bheem</field>
+  </doc>
+  <doc>
+    <field name="id">559</field>
+    <field name="NATURE">mighty</field>
+  </doc>
+  <doc>
+    <field name="id">560</field>
+    <field name="MUSICAL_INSTRUMENTS">conch</field>
+  </doc>
+  <doc>
+    <field name="id">561</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">Paundra</field>
+  </doc>
+  <doc>
+    <field name="id">562</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">पाञ्चजन्य</field>
+  </doc>
+  <doc>
+    <field name="id">563</field>
+    <field name="DEITY">श्रीकृष्ण</field>
+  </doc>
+  <doc>
+    <field name="id">564</field>
+    <field name="NAME">अर्जुन</field>
+  </doc>
+  <doc>
+    <field name="id">565</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">देवदत्</field>
+  </doc>
+  <doc>
+    <field name="id">566</field>
+    <field name="NAME">भीमसेन</field>
+  </doc>
+  <doc>
+    <field name="id">567</field>
+    <field name="NAME_MUSICAL_INSTRUMENTS">पौण्ड्र</field>
+  </doc>
+  <doc>
+    <field name="id">568</field>
+    <field name="NAME">Hrishikesh</field>
+  </doc>
+  <doc>
+    <field name="id">569</field>
+    <field name="DEITY">Hrishikesh</field>
+  </doc>
+</add>

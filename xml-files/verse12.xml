@@ -1,0 +1,142 @@
+<add>
+  <doc>
+    <field name="id">421</field>
+    <field name="VERSE">Verse 12</field>
+  </doc>
+  <doc>
+    <field name="id">422</field>
+    <field name="EMOTIONS">हर्षं</field>
+  </doc>
+  <doc>
+    <field name="id">423</field>
+    <field name="REFERING_DYNASTY">कुरुवृद्ध:</field>
+  </doc>
+  <doc>
+    <field name="id">424</field>
+    <field name="FAMILY_MEMBER">पितामह:</field>
+  </doc>
+  <doc>
+    <field name="id">425</field>
+    <field name="METAPHORICAL_REFERENCE">सिंहनादं</field>
+  </doc>
+  <doc>
+    <field name="id">426</field>
+    <field name="REFERING_DYNASTY">Kuru</field>
+  </doc>
+  <doc>
+    <field name="id">427</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">428</field>
+    <field name="METAPHORICAL_REFERENCE">roared like a lion</field>
+  </doc>
+  <doc>
+    <field name="id">429</field>
+    <field name="NAME">Duryodhan</field>
+  </doc>
+  <doc>
+    <field name="id">430</field>
+    <field name="DEITY">Lord Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">431</field>
+    <field name="CHARACTERESTICS">Supreme</field>
+  </doc>
+  <doc>
+    <field name="id">432</field>
+    <field name="FAMILY_MEMBER">grand-nephew</field>
+  </doc>
+  <doc>
+    <field name="id">433</field>
+    <field name="EMOTIONS">anxiety</field>
+  </doc>
+  <doc>
+    <field name="id">434</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">435</field>
+    <field name="CHARACTERESTICS">प्रतापवान्</field>
+  </doc>
+  <doc>
+    <field name="id">436</field>
+    <field name="ORIGINAL">तस्य सञ्जनयन्हर्षं कुरुवृद्ध: पितामह: | सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान् || 12|</field>
+  </doc>
+  <doc>
+    <field name="id">437</field>
+    <field name="MEANING_OF_TEXT">Then, the grand old man of the Kuru dynasty, the glorious patriarch Bheeshma, roared like a lion, and blew his conch shell very loudly, giving joy to Duryodhan.</field>
+  </doc>
+  <doc>
+    <field name="id">438</field>
+    <field name="EMOTIONS">cheer</field>
+  </doc>
+  <doc>
+    <field name="id">439</field>
+    <field name="EMOTIONS">pain</field>
+  </doc>
+  <doc>
+    <field name="id">440</field>
+    <field name="REFERING_DYNASTY">Kuru</field>
+  </doc>
+  <doc>
+    <field name="id">441</field>
+    <field name="NATURE">glorious</field>
+  </doc>
+  <doc>
+    <field name="id">442</field>
+    <field name="METAPHORICAL_REFERENCE">roared like a lion</field>
+  </doc>
+  <doc>
+    <field name="id">443</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shell</field>
+  </doc>
+  <doc>
+    <field name="id">444</field>
+    <field name="EMOTIONS">joy</field>
+  </doc>
+  <doc>
+    <field name="id">445</field>
+    <field name="NAME">Duryodhan</field>
+  </doc>
+  <doc>
+    <field name="id">446</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">447</field>
+    <field name="CHARACTERESTICS">Supreme</field>
+  </doc>
+  <doc>
+    <field name="id">448</field>
+    <field name="DEITY">Lord Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">449</field>
+    <field name="REFERING_DYNASTY">कुरुवंश</field>
+  </doc>
+  <doc>
+    <field name="id">450</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">451</field>
+    <field name="TITLE">पितामह</field>
+  </doc>
+  <doc>
+    <field name="id">452</field>
+    <field name="FAMILY_MEMBER">grand-nephew</field>
+  </doc>
+  <doc>
+    <field name="id">453</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shell</field>
+  </doc>
+  <doc>
+    <field name="id">454</field>
+    <field name="EMOTIONS">cheer</field>
+  </doc>
+  <doc>
+    <field name="id">455</field>
+    <field name="EMOTIONS">pain</field>
+  </doc>
+</add>

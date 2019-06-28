@@ -1,0 +1,40 @@
+T1	VERSE 34 42	Verse 15
+T2	ORIGINAL 44 82;83 130	पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जय: | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदर: || 15|
+T3	MUSICAL_INSTRUMENTS 44 54	पाञ्चजन्यं
+T4	DEITY 55 63	हृषीकेशो
+T5	MUSICAL_INSTRUMENTS 64 70	देवदत्
+T6	NAME 73 80	धनञ्जय:
+T7	MUSICAL_INSTRUMENTS 83 91	पौण्ड्रं
+T8	MEANING_OF_TEXT 249 430	Hrishikesh blew his conch shell, called Panchajanya, and Arjun blew the Devadutta. Bheem, the voracious eater and performer of herculean tasks, blew his mighty conch, called Paundra
+T9	DEITY 460 473	Shree Krishna
+T10	SUBJECT 491 501	Hrishikesh
+T11	DESCRIPTION 515 546	the Lord of the mind and senses
+T12	SUBJECT 548 561	Shree Krishna
+T13	DESCRIPTION 569 585	Sovereign Master
+T14	NAME 249 259	Hrishikesh
+T15	NAME 289 300	Panchajanya
+T16	NAME 306 311	Arjun
+T17	MUSICAL_INSTRUMENTS 321 330	Devadutta
+T18	NAME 332 337	Bheem
+T19	NAME 423 430	Paundra
+T20	MUSICAL_INSTRUMENTS 409 414	conch
+T21	CHARACTERESTICS 402 408	mighty
+T22	OVERVIEW 433 443	Commentary
+T23	MUSICAL_INSTRUMENTS 269 280	conch shell
+T24	NAME 250 260	Hrishikesh
+T25	MUSICAL_INSTRUMENTS 270 281	conch shell
+T26	NAME_MUSICAL_INSTRUMENTS 290 301	Panchajanya
+T27	NAME 307 312	Arjun
+T28	NAME_MUSICAL_INSTRUMENTS 322 331	Devadutta
+T29	NAME 333 338	Bheem
+T30	NATURE 403 409	mighty
+T31	MUSICAL_INSTRUMENTS 410 415	conch
+T32	NAME_MUSICAL_INSTRUMENTS 424 431	Paundra
+T33	NAME_MUSICAL_INSTRUMENTS 482 491	पाञ्चजन्य
+T34	DEITY 468 477	श्रीकृष्ण
+T35	NAME 499 505	अर्जुन
+T36	NAME_MUSICAL_INSTRUMENTS 510 516	देवदत्
+T37	NAME 543 549	भीमसेन
+T38	NAME_MUSICAL_INSTRUMENTS 554 561	पौण्ड्र
+T39	NAME 646 656	Hrishikesh
+T40	DEITY 646 656	Hrishikesh

@@ -1,0 +1,294 @@
+<add>
+  <doc>
+    <field name="id">1</field>
+    <field name="VERSE_NUMBER">Verse1</field>
+  </doc>
+  <doc>
+    <field name="id">2</field>
+    <field name="PLACE">Kurukshetra</field>
+  </doc>
+  <doc>
+    <field name="id">3</field>
+    <field name="FATHER">Pandu</field>
+  </doc>
+  <doc>
+    <field name="id">4</field>
+    <field name="KING">Dhritarashtra</field>
+  </doc>
+  <doc>
+    <field name="id">5</field>
+    <field name="KING">धृतराष्ट्र</field>
+  </doc>
+  <doc>
+    <field name="id">6</field>
+    <field name="DESIRE">युयुत्सवः</field>
+  </doc>
+  <doc>
+    <field name="id">7</field>
+    <field name="NAME">सञ्जय</field>
+  </doc>
+  <doc>
+    <field name="id">8</field>
+    <field name="CHILDREN">मामकाः</field>
+  </doc>
+  <doc>
+    <field name="id">9</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">10</field>
+    <field name="NATURE">holy</field>
+  </doc>
+  <doc>
+    <field name="id">11</field>
+    <field name="PLACE">Kurukshetra</field>
+  </doc>
+  <doc>
+    <field name="id">12</field>
+    <field name="EMOTIONS">fondness</field>
+  </doc>
+  <doc>
+    <field name="id">13</field>
+    <field name="CHARACTERESTICS">spiritual wisdom</field>
+  </doc>
+  <doc>
+    <field name="id">14</field>
+    <field name="PLACE">Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">15</field>
+    <field name="CHILD">heirs</field>
+  </doc>
+  <doc>
+    <field name="id">16</field>
+    <field name="EMOTIONS">guilty</field>
+  </doc>
+  <doc>
+    <field name="id">17</field>
+    <field name="NATURE">dharma</field>
+  </doc>
+  <doc>
+    <field name="id">18</field>
+    <field name="PLACE">kṣhetre</field>
+  </doc>
+  <doc>
+    <field name="id">19</field>
+    <field name="CELESTIAL_BODIES">celestial gods</field>
+  </doc>
+  <doc>
+    <field name="id">20</field>
+    <field name="OVERVIEW">Commentary</field>
+  </doc>
+  <doc>
+    <field name="id">21</field>
+    <field name="EMOTIONS">displeasure</field>
+  </doc>
+  <doc>
+    <field name="id">22</field>
+    <field name="ORIGINAL">धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1|</field>
+  </doc>
+  <doc>
+    <field name="id">23</field>
+    <field name="DESCRIPTION">Kurukshetra is the sacrificial arena of the celestial gods</field>
+  </doc>
+  <doc>
+    <field name="id">24</field>
+    <field name="EMOTIONS">feared</field>
+  </doc>
+  <doc>
+    <field name="id">25</field>
+    <field name="CHARACTERESTICS">holy land</field>
+  </doc>
+  <doc>
+    <field name="id">26</field>
+    <field name="WISH">to determine the fate of his sons</field>
+  </doc>
+  <doc>
+    <field name="id">27</field>
+    <field name="COLLECTION">two armies</field>
+  </doc>
+  <doc>
+    <field name="id">28</field>
+    <field name="EMOTIONS">worried</field>
+  </doc>
+  <doc>
+    <field name="id">29</field>
+    <field name="MEANING_OF_TEXT">Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?</field>
+  </doc>
+  <doc>
+    <field name="id">30</field>
+    <field name="HISTORICAL_INFORMATION">Kurukshetra is described as kurukṣhetraṁ deva yajanam in the Shatapath Brahman, the Vedic textbook detailing rituals</field>
+  </doc>
+  <doc>
+    <field name="id">31</field>
+    <field name="RITUALS">kurukṣhetraṁ deva yajanam</field>
+  </doc>
+  <doc>
+    <field name="id">32</field>
+    <field name="DESCRIPTION">clouded his spiritual wisdom</field>
+  </doc>
+  <doc>
+    <field name="id">33</field>
+    <field name="HISTORICAL_INFORMATION">it was regarded as the sacred land that nourished dharma</field>
+  </doc>
+  <doc>
+    <field name="id">34</field>
+    <field name="CHARACTERESTICS">धर्मक्षेत्रे</field>
+  </doc>
+  <doc>
+    <field name="id">35</field>
+    <field name="PLACE">कुरुक्षेत्रे</field>
+  </doc>
+  <doc>
+    <field name="id">36</field>
+    <field name="CHILDREN">पाण्डवा</field>
+  </doc>
+  <doc>
+    <field name="id">37</field>
+    <field name="KING">Dhritarashtra</field>
+  </doc>
+  <doc>
+    <field name="id">38</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">39</field>
+    <field name="CHARACTERESTICS">holy</field>
+  </doc>
+  <doc>
+    <field name="id">40</field>
+    <field name="PLACE">Kurukshetra</field>
+  </doc>
+  <doc>
+    <field name="id">41</field>
+    <field name="DESIRE">figh</field>
+  </doc>
+  <doc>
+    <field name="id">42</field>
+    <field name="KING">Pandu</field>
+  </doc>
+  <doc>
+    <field name="id">43</field>
+    <field name="KING">धृतराष्ट्र</field>
+  </doc>
+  <doc>
+    <field name="id">44</field>
+    <field name="NAME">संजय</field>
+  </doc>
+  <doc>
+    <field name="id">45</field>
+    <field name="CHARACTERESTICS">धर्म</field>
+  </doc>
+  <doc>
+    <field name="id">46</field>
+    <field name="CHILDREN">पुत्रों</field>
+  </doc>
+  <doc>
+    <field name="id">47</field>
+    <field name="CHILDREN">पुत्रों</field>
+  </doc>
+  <doc>
+    <field name="id">48</field>
+    <field name="KING">पाण्डु</field>
+  </doc>
+  <doc>
+    <field name="id">49</field>
+    <field name="CHARACTERESTICS">कर्म</field>
+  </doc>
+  <doc>
+    <field name="id">50</field>
+    <field name="PLACE">Kurukshetra</field>
+  </doc>
+  <doc>
+    <field name="id">51</field>
+    <field name="TITLE">King</field>
+  </doc>
+  <doc>
+    <field name="id">52</field>
+    <field name="KING">Dhritarashtra</field>
+  </doc>
+  <doc>
+    <field name="id">53</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">54</field>
+    <field name="CHARACTERESTICS">spiritual</field>
+  </doc>
+  <doc>
+    <field name="id">55</field>
+    <field name="PLACE">Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">56</field>
+    <field name="CHILDREN">Pandavas</field>
+  </doc>
+  <doc>
+    <field name="id">57</field>
+    <field name="DESCRIPTION">kurukṣhetraṁ deva yajanam</field>
+  </doc>
+  <doc>
+    <field name="id">58</field>
+    <field name="CHARACTERESTICS">sacrificial</field>
+  </doc>
+  <doc>
+    <field name="id">59</field>
+    <field name="DESCRIPTION">sacrificial arena of the celestial gods</field>
+  </doc>
+  <doc>
+    <field name="id">60</field>
+    <field name="DESIRE">to determine the fate of his sons</field>
+  </doc>
+  <doc>
+    <field name="id">61</field>
+    <field name="COLLECTION">Shatapath Brahman</field>
+  </doc>
+  <doc>
+    <field name="id">62</field>
+    <field name="PLACE">Kurukshetra</field>
+  </doc>
+  <doc>
+    <field name="id">63</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">64</field>
+    <field name="DESIRE">युद्ध</field>
+  </doc>
+  <doc>
+    <field name="id">65</field>
+    <field name="CONNOTATION">भावार्थ</field>
+  </doc>
+  <doc>
+    <field name="id">66</field>
+    <field name="SUBJECT">war</field>
+  </doc>
+  <doc>
+    <field name="id">67</field>
+    <field name="CHARACTERESTICS">inevitable</field>
+  </doc>
+  <doc>
+    <field name="id">68</field>
+    <field name="EMOTIONS">guilty</field>
+  </doc>
+  <doc>
+    <field name="id">69</field>
+    <field name="FAMILY_MEMBER">nephews</field>
+  </doc>
+  <doc>
+    <field name="id">70</field>
+    <field name="EMOTIONS">displeasure</field>
+  </doc>
+  <doc>
+    <field name="id">71</field>
+    <field name="FAMILY_MEMBER">brother</field>
+  </doc>
+  <doc>
+    <field name="id">72</field>
+    <field name="NATURE">holy</field>
+  </doc>
+  <doc>
+    <field name="id">73</field>
+    <field name="FAMILY_MEMBER">cousins</field>
+  </doc>
+</add>

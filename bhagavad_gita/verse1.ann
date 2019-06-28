@@ -1,0 +1,73 @@
+T2	VERSE_NUMBER 34 40	Verse1
+T1	PLACE 343 354	Kurukshetra
+T3	FATHER 412 417	Pandu
+T4	KING 1194 1207	Dhritarashtra
+T5	KING 42 52	धृतराष्ट्र
+T6	DESIRE 93 102	युयुत्सवः
+T7	NAME 135 140	सञ्जय
+T8	CHILDREN 105 111	मामकाः
+T9	NAME 298 304	Sanjay
+T10	NATURE 329 333	holy
+T11	PLACE 487 498	Kurukshetra
+T12	EMOTIONS 787 795	fondness
+T13	CHARACTERESTICS 829 845	spiritual wisdom
+T14	PLACE 918 928	Hastinapur
+T15	CHILD 947 952	heirs
+T16	EMOTIONS 1003 1009	guilty
+T17	NATURE 1132 1138	dharma
+T18	PLACE 1139 1146	kṣhetre
+T19	CELESTIAL_BODIES 1421 1435	celestial gods
+T20	OVERVIEW 425 435	Commentary
+T21	EMOTIONS 1803 1814	displeasure
+T23	ORIGINAL 42 59;60 104;105 145	धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1|
+T24	DESCRIPTION 1377 1435	Kurukshetra is the sacrificial arena of the celestial gods
+T25	EMOTIONS 1519 1525	feared
+T26	CHARACTERESTICS 1535 1544	holy land
+T27	WISH 1944 1977	to determine the fate of his sons
+T28	COLLECTION 2034 2044	two armies
+T29	EMOTIONS 1075 1082	worried
+T30	MEANING_OF_TEXT 276 421	Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?
+T31	HISTORICAL_INFORMATION 1249 1365	Kurukshetra is described as kurukṣhetraṁ deva yajanam in the Shatapath Brahman, the Vedic textbook detailing rituals
+T32	RITUALS 1277 1302	kurukṣhetraṁ deva yajanam
+T33	DESCRIPTION 817 845	clouded his spiritual wisdom
+T34	HISTORICAL_INFORMATION 1445 1501	it was regarded as the sacred land that nourished dharma
+T35	CHARACTERESTICS 60 72	धर्मक्षेत्रे
+T36	PLACE 73 85	कुरुक्षेत्रे
+T37	CHILDREN 112 119	पाण्डवा
+T22	KING 277 290	Dhritarashtra
+T38	NAME 299 305	Sanjay
+T39	CHARACTERESTICS 330 334	holy
+T40	PLACE 344 355	Kurukshetra
+T41	DESIRE 373 377	figh
+T42	KING 413 418	Pandu
+T43	KING 437 447	धृतराष्ट्र
+T44	NAME 460 464	संजय
+T45	CHARACTERESTICS 466 470	धर्म
+T46	CHILDREN 526 533	पुत्रों
+T47	CHILDREN 547 554	पुत्रों
+T48	KING 537 543	पाण्डु
+T49	CHARACTERESTICS 479 483	कर्म
+T50	PLACE 637 648	Kurukshetra
+T51	TITLE 722 726	King
+T52	KING 727 740	Dhritarashtra
+T53	NAME 747 753	Sanjay
+T54	CHARACTERESTICS 979 988	spiritual
+T55	PLACE 1068 1078	Hastinapur
+T56	CHILDREN 1108 1116	Pandavas
+T57	DESCRIPTION 1427 1452	kurukṣhetraṁ deva yajanam
+T58	CHARACTERESTICS 1546 1557	sacrificial
+T59	DESCRIPTION 1546 1585	sacrificial arena of the celestial gods
+T60	DESIRE 2094 2127	to determine the fate of his sons
+T61	COLLECTION 1460 1477	Shatapath Brahman
+T62	PLACE 1527 1538	Kurukshetra
+T63	NAME 2149 2155	Sanjay
+T64	DESIRE 493 498	युद्ध
+T65	CONNOTATION 425 432	भावार्थ
+T66	SUBJECT 675 678	war
+T67	CHARACTERESTICS 688 698	inevitable
+T68	EMOTIONS 1153 1159	guilty
+T69	FAMILY_MEMBER 1201 1208	nephews
+T70	EMOTIONS 1953 1964	displeasure
+T71	FAMILY_MEMBER 1130 1137	brother
+T72	NATURE 1685 1689	holy
+T73	FAMILY_MEMBER 1819 1826	cousins

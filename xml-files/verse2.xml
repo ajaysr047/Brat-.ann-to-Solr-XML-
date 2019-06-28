@@ -1,0 +1,162 @@
+<add>
+  <doc>
+    <field name="id">74</field>
+    <field name="ORIGINAL">सञ्जय उवाच । दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसङ्गम्य राजा वचनमब्रवीत्</field>
+  </doc>
+  <doc>
+    <field name="id">75</field>
+    <field name="TITLE">King</field>
+  </doc>
+  <doc>
+    <field name="id">76</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">77</field>
+    <field name="MEANING_OF_TEXT">Translation</field>
+  </doc>
+  <doc>
+    <field name="id">78</field>
+    <field name="EMOTIONS">worry</field>
+  </doc>
+  <doc>
+    <field name="id">79</field>
+    <field name="PLACE">kingdom of Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">80</field>
+    <field name="KING">Dhritarashtra</field>
+  </doc>
+  <doc>
+    <field name="id">81</field>
+    <field name="CHARACTERESTICS">blind</field>
+  </doc>
+  <doc>
+    <field name="id">82</field>
+    <field name="NATURE">rude, egoistic, evil and cruel</field>
+  </doc>
+  <doc>
+    <field name="id">83</field>
+    <field name="TIME">childhood</field>
+  </doc>
+  <doc>
+    <field name="id">84</field>
+    <field name="TITLE">guru</field>
+  </doc>
+  <doc>
+    <field name="id">85</field>
+    <field name="PURPOSE">to palliate his own nervousness</field>
+  </doc>
+  <doc>
+    <field name="id">86</field>
+    <field name="EMOTIONS">baffled</field>
+  </doc>
+  <doc>
+    <field name="id">87</field>
+    <field name="PLACE">Hastinapu</field>
+  </doc>
+  <doc>
+    <field name="id">88</field>
+    <field name="COLLECTION">Pandava army</field>
+  </doc>
+  <doc>
+    <field name="id">89</field>
+    <field name="EMOTIONS">fearful</field>
+  </doc>
+  <doc>
+    <field name="id">90</field>
+    <field name="NAME">सञ्जय</field>
+  </doc>
+  <doc>
+    <field name="id">91</field>
+    <field name="KING">राजा</field>
+  </doc>
+  <doc>
+    <field name="id">92</field>
+    <field name="TITLE">आचार्यमुपसङ्गम्य</field>
+  </doc>
+  <doc>
+    <field name="id">93</field>
+    <field name="PLACE">battlefield</field>
+  </doc>
+  <doc>
+    <field name="id">94</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">95</field>
+    <field name="TITLE">guru</field>
+  </doc>
+  <doc>
+    <field name="id">96</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">97</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">98</field>
+    <field name="NAME">Duryodhan</field>
+  </doc>
+  <doc>
+    <field name="id">99</field>
+    <field name="TITLE">King</field>
+  </doc>
+  <doc>
+    <field name="id">100</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">101</field>
+    <field name="NAME">संजय</field>
+  </doc>
+  <doc>
+    <field name="id">102</field>
+    <field name="TITLE">राजा</field>
+  </doc>
+  <doc>
+    <field name="id">103</field>
+    <field name="NAME">दुर्योधन</field>
+  </doc>
+  <doc>
+    <field name="id">104</field>
+    <field name="KING">पाण्डु</field>
+  </doc>
+  <doc>
+    <field name="id">105</field>
+    <field name="CHILDREN">पुत्रों</field>
+  </doc>
+  <doc>
+    <field name="id">106</field>
+    <field name="NAME">द्रोणाचार्य</field>
+  </doc>
+  <doc>
+    <field name="id">107</field>
+    <field name="PLACE">Hastinapur</field>
+  </doc>
+  <doc>
+    <field name="id">108</field>
+    <field name="NAME">Mahabharata</field>
+  </doc>
+  <doc>
+    <field name="id">109</field>
+    <field name="CHARACTERESTICS">rude</field>
+  </doc>
+  <doc>
+    <field name="id">110</field>
+    <field name="CHARACTERESTICS">egoistic</field>
+  </doc>
+  <doc>
+    <field name="id">111</field>
+    <field name="TIME">childhood</field>
+  </doc>
+  <doc>
+    <field name="id">112</field>
+    <field name="EMOTIONS">nervousness</field>
+  </doc>
+  <doc>
+    <field name="id">113</field>
+    <field name="VERSE_NUMBER">Verse 2</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+T1	VERSE 34 42	Verse 10
+T2	NAME 332 340	Bheeshma
+T3	NAME 368 374	Pandav
+T4	NAME 406 411	Bheem
+T5	NAME 495 503	Bheeshma
+T6	ORIGINAL 46 88;90 131	अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्
+T7	NAME 70 76	भीष्मा
+T8	CHARACTERESTICS 66 69	बलं
+T9	NAME 117 121	भीमा
+T10	MEANING_OF_TEXT 252 423	The strength of our army is unlimited and we are safely marshalled by Grandsire Bheeshma, while the strength of the Pandava army, carefully marshalled by Bheem, is limited
+T11	CHARACTERESTICS 256 264	strength
+T12	TITLE 442 460	commander-in-chief
+T13	NAME 468 475	Kaurava
+T14	TIME 604 613	his death
+T15	NAME 657 667	Duryodhana
+T16	CHARACTERESTICS 718 730	undefeatable
+T17	POETIC_EMBELLISHMENT 896 923	Vinaash kale vipreet buddhi
+T18	CHARACTERESTICS 987 995	egoistic
+T19	NAME 1206 1214	Bheeshma
+T20	NAME 1245 1253	Kauravas
+T21	NAME 1258 1266	Pandavas
+T22	NAME 1336 1340	Kuru
+T23	PLACE 1492 1501	Hastinapu
+T24	CHARACTERESTICS 2133 2154	enigmatic personality
+T25	NATURE 1774 1780	Dharma
+T26	NATURE 1859 1866	Adharma
+T27	DEITY 1692 1704	Lord Krishna
+T28	NATURE 1684 1691	Supreme
+T29	NATURE 1623 1627	holy
+T30	PLACE 1912 1922	Hastinapur
+T31	NAME 333 341	Bheeshma
+T32	NAME 369 376	Pandava
+T33	NAME 407 412	Bheem
+T34	NAME 448 453	भीष्म
+T35	TITLE 454 460	पितामह
+T36	NAME 531 534	भीम
+T37	POSITION_IN_ARMY 632 650	commander-in-chief
+T38	NAME 658 665	Kaurava
+T39	NAME 847 857	Duryodhana
+T40	PROVERB 1086 1113	Vinaash kale vipreet buddhi
+T41	CHARACTERESTICS 1177 1185	egoistic
+T42	REFERING_DYNASTY 1526 1530	Kuru
+T43	PLACE 1682 1692	Hastinapur
+T44	NAME 1748 1755	Kaurava
+T45	NATURE 1813 1817	holy
+T46	CHARACTERESTICS 1875 1881	upreme
+T47	DEITY 1882 1894	Lord Krishna
+T48	CHARACTERESTICS 2049 2056	Adharma
+T49	CHARACTERESTICS 1964 1970	Dharma
+T50	CHILDREN 1942 1950	Pandavas
+T51	CHARACTERESTICS 2323 2344	enigmatic personality
+T52	CHARACTERESTICS 2297 2305	strength

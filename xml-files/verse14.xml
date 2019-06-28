@@ -1,0 +1,194 @@
+<add>
+  <doc>
+    <field name="id">482</field>
+    <field name="VERSE">Verse 14</field>
+  </doc>
+  <doc>
+    <field name="id">483</field>
+    <field name="ORIGINAL">तत: श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: || 14|</field>
+  </doc>
+  <doc>
+    <field name="id">484</field>
+    <field name="USED_FOR_TRANSPORTATION">स्यन्दने</field>
+  </doc>
+  <doc>
+    <field name="id">485</field>
+    <field name="DEITY">माधव</field>
+  </doc>
+  <doc>
+    <field name="id">486</field>
+    <field name="NAME">पाण्डव</field>
+  </doc>
+  <doc>
+    <field name="id">487</field>
+    <field name="MUSICAL_INSTRUMENTS">शङ्खौ</field>
+  </doc>
+  <doc>
+    <field name="id">488</field>
+    <field name="MEANING_OF_TEXT">Then, from amidst the Pandava army, seated in a glorious chariot drawn by white horses, Madhav and Arjun blew their Divine conch shells</field>
+  </doc>
+  <doc>
+    <field name="id">489</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shells</field>
+  </doc>
+  <doc>
+    <field name="id">490</field>
+    <field name="DEITY">Madhav</field>
+  </doc>
+  <doc>
+    <field name="id">491</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">492</field>
+    <field name="NATURE">glorious</field>
+  </doc>
+  <doc>
+    <field name="id">493</field>
+    <field name="USED_FOR_TRANSPORTATION">chariot</field>
+  </doc>
+  <doc>
+    <field name="id">494</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">495</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">496</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">497</field>
+    <field name="DEITY">Lord Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">498</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">499</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shells</field>
+  </doc>
+  <doc>
+    <field name="id">500</field>
+    <field name="NATURE">enthusiasm</field>
+  </doc>
+  <doc>
+    <field name="id">501</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">502</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">503</field>
+    <field name="DEITY">Lord Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">504</field>
+    <field name="NAME">Madhav</field>
+  </doc>
+  <doc>
+    <field name="id">505</field>
+    <field name="DEITY">Lakshmi</field>
+  </doc>
+  <doc>
+    <field name="id">506</field>
+    <field name="DEITY">Lord Vishnu</field>
+  </doc>
+  <doc>
+    <field name="id">507</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">508</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">509</field>
+    <field name="DEITY">Madhav</field>
+  </doc>
+  <doc>
+    <field name="id">510</field>
+    <field name="NAME">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">511</field>
+    <field name="MUSICAL_INSTRUMENTS">conch shells</field>
+  </doc>
+  <doc>
+    <field name="id">512</field>
+    <field name="NATURE">Divine</field>
+  </doc>
+  <doc>
+    <field name="id">513</field>
+    <field name="DEITY">श्रीकृष्ण</field>
+  </doc>
+  <doc>
+    <field name="id">514</field>
+    <field name="NAME">अर्जुन</field>
+  </doc>
+  <doc>
+    <field name="id">515</field>
+    <field name="MUSICAL_INSTRUMENTS">शंख</field>
+  </doc>
+  <doc>
+    <field name="id">516</field>
+    <field name="NAME">Kaurava</field>
+  </doc>
+  <doc>
+    <field name="id">517</field>
+    <field name="DEITY">Lord Shree Krishna</field>
+  </doc>
+  <doc>
+    <field name="id">518</field>
+    <field name="NAME">Sanjay</field>
+  </doc>
+  <doc>
+    <field name="id">519</field>
+    <field name="DEITY">Lakshmi</field>
+  </doc>
+  <doc>
+    <field name="id">520</field>
+    <field name="FAMILY_MEMBER">husband</field>
+  </doc>
+  <doc>
+    <field name="id">521</field>
+    <field name="DEITY">Lord Vishnu</field>
+  </doc>
+  <doc>
+    <field name="id">522</field>
+    <field name="FAMILY_MEMBER">wife</field>
+  </doc>
+  <doc>
+    <field name="id">523</field>
+    <field name="FAMILY_MEMBER">brothers</field>
+  </doc>
+  <doc>
+    <field name="id">524</field>
+    <field name="NUMBERS">five</field>
+  </doc>
+  <doc>
+    <field name="id">525</field>
+    <field name="USED_FOR_TRANSPORTATION">chariot</field>
+  </doc>
+  <doc>
+    <field name="id">526</field>
+    <field name="CHARACTERESTICS">magnificent</field>
+  </doc>
+  <doc>
+    <field name="id">527</field>
+    <field name="WARRIORS">Arjun</field>
+  </doc>
+  <doc>
+    <field name="id">528</field>
+    <field name="CHARACTERESTICS">superior arche</field>
+  </doc>
+  <doc>
+    <field name="id">529</field>
+    <field name="NATURE">mighty</field>
+  </doc>
+</add>

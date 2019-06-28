@@ -1,0 +1,86 @@
+<add>
+  <doc>
+    <field name="id">114</field>
+    <field name="ORIGINAL">पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता</field>
+  </doc>
+  <doc>
+    <field name="id">115</field>
+    <field name="MEANING_OF_TEXT">Translation</field>
+  </doc>
+  <doc>
+    <field name="id">116</field>
+    <field name="NAME">Duryodhan</field>
+  </doc>
+  <doc>
+    <field name="id">117</field>
+    <field name="CHARACTERESTICS">skillfully</field>
+  </doc>
+  <doc>
+    <field name="id">118</field>
+    <field name="CHARACTERESTICS">धीमता</field>
+  </doc>
+  <doc>
+    <field name="id">119</field>
+    <field name="CHILD">पाण्डुपुत्राणामाचार्य</field>
+  </doc>
+  <doc>
+    <field name="id">120</field>
+    <field name="CHILD">द्रुपदपुत्रेण</field>
+  </doc>
+  <doc>
+    <field name="id">121</field>
+    <field name="VERSE_NUMBER">Verse 3</field>
+  </doc>
+  <doc>
+    <field name="id">122</field>
+    <field name="KING">Pandu</field>
+  </doc>
+  <doc>
+    <field name="id">123</field>
+    <field name="KING">Drupad</field>
+  </doc>
+  <doc>
+    <field name="id">124</field>
+    <field name="TITLE">आचार्</field>
+  </doc>
+  <doc>
+    <field name="id">125</field>
+    <field name="KING">पाण्डु</field>
+  </doc>
+  <doc>
+    <field name="id">126</field>
+    <field name="KING">द्रुपद</field>
+  </doc>
+  <doc>
+    <field name="id">127</field>
+    <field name="POSITION_IN_ARMY">commander-in-chief</field>
+  </doc>
+  <doc>
+    <field name="id">128</field>
+    <field name="KING">Dhrupad</field>
+  </doc>
+  <doc>
+    <field name="id">129</field>
+    <field name="TITLE">King</field>
+  </doc>
+  <doc>
+    <field name="id">130</field>
+    <field name="PLACE">kingdom</field>
+  </doc>
+  <doc>
+    <field name="id">131</field>
+    <field name="NAME">Dhristadyumna</field>
+  </doc>
+  <doc>
+    <field name="id">132</field>
+    <field name="NAME">Dronacharya</field>
+  </doc>
+  <doc>
+    <field name="id">133</field>
+    <field name="CHILDREN">Pandavas</field>
+  </doc>
+  <doc>
+    <field name="id">134</field>
+    <field name="EMOTIONS">humbly</field>
+  </doc>
+</add>

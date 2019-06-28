@@ -1,0 +1,262 @@
+<add>
+  <doc>
+    <field name="id">257</field>
+    <field name="ORIGINAL">भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जय: | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च || 8||</field>
+  </doc>
+  <doc>
+    <field name="id">258</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">259</field>
+    <field name="NAME">कर्ण</field>
+  </doc>
+  <doc>
+    <field name="id">260</field>
+    <field name="NAME">कृप</field>
+  </doc>
+  <doc>
+    <field name="id">261</field>
+    <field name="NAME">अश्वत्थामा</field>
+  </doc>
+  <doc>
+    <field name="id">262</field>
+    <field name="NAME">विकर्ण</field>
+  </doc>
+  <doc>
+    <field name="id">263</field>
+    <field name="MEANING_OF_TEXT">There are personalities like yourself, Bheeshma, Karna, Kripa, Ashwatthama, Vikarn, and Bhurishrava, who are ever victorious in battle</field>
+  </doc>
+  <doc>
+    <field name="id">264</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">265</field>
+    <field name="NAME">Karna</field>
+  </doc>
+  <doc>
+    <field name="id">266</field>
+    <field name="NAME">Kripa</field>
+  </doc>
+  <doc>
+    <field name="id">267</field>
+    <field name="NAME">Ashwatthama</field>
+  </doc>
+  <doc>
+    <field name="id">268</field>
+    <field name="NAME">Vikarn</field>
+  </doc>
+  <doc>
+    <field name="id">269</field>
+    <field name="NAME">Bhurishrava</field>
+  </doc>
+  <doc>
+    <field name="id">270</field>
+    <field name="NAME">Pandava</field>
+  </doc>
+  <doc>
+    <field name="id">271</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">272</field>
+    <field name="NAME">Drona</field>
+  </doc>
+  <doc>
+    <field name="id">273</field>
+    <field name="EMOTIONS">scared</field>
+  </doc>
+  <doc>
+    <field name="id">274</field>
+    <field name="EMOTIONS">angered</field>
+  </doc>
+  <doc>
+    <field name="id">275</field>
+    <field name="SUBJECT">three qualities</field>
+  </doc>
+  <doc>
+    <field name="id">276</field>
+    <field name="SUBJECT">tendencies</field>
+  </doc>
+  <doc>
+    <field name="id">277</field>
+    <field name="DESCRIPTION">a tendency that draws us towards inertia</field>
+  </doc>
+  <doc>
+    <field name="id">278</field>
+    <field name="DESCRIPTION">that draws us to action</field>
+  </doc>
+  <doc>
+    <field name="id">279</field>
+    <field name="DESCRIPTION">that draws us to equanimity</field>
+  </doc>
+  <doc>
+    <field name="id">280</field>
+    <field name="NATURE">good</field>
+  </doc>
+  <doc>
+    <field name="id">281</field>
+    <field name="NATURE">evil</field>
+  </doc>
+  <doc>
+    <field name="id">282</field>
+    <field name="NATURE">evil</field>
+  </doc>
+  <doc>
+    <field name="id">283</field>
+    <field name="CHARACTERESTICS">bad qualities</field>
+  </doc>
+  <doc>
+    <field name="id">284</field>
+    <field name="CHARACTERESTICS">good qualities</field>
+  </doc>
+  <doc>
+    <field name="id">285</field>
+    <field name="OVERVIEW">Commentary</field>
+  </doc>
+  <doc>
+    <field name="id">286</field>
+    <field name="VERSE">Verse 8</field>
+  </doc>
+  <doc>
+    <field name="id">287</field>
+    <field name="NAME">Bheeshma</field>
+  </doc>
+  <doc>
+    <field name="id">288</field>
+    <field name="NAME">Karna</field>
+  </doc>
+  <doc>
+    <field name="id">289</field>
+    <field name="NAME">Kripa</field>
+  </doc>
+  <doc>
+    <field name="id">290</field>
+    <field name="NAME">Ashwatthama</field>
+  </doc>
+  <doc>
+    <field name="id">291</field>
+    <field name="NAME">Vikarn</field>
+  </doc>
+  <doc>
+    <field name="id">292</field>
+    <field name="NAME">Bhurishrava</field>
+  </doc>
+  <doc>
+    <field name="id">293</field>
+    <field name="CHARACTERESTICS">victorious</field>
+  </doc>
+  <doc>
+    <field name="id">294</field>
+    <field name="TITLE">पितामह</field>
+  </doc>
+  <doc>
+    <field name="id">295</field>
+    <field name="NAME">भीष्म</field>
+  </doc>
+  <doc>
+    <field name="id">296</field>
+    <field name="NAME">कर्</field>
+  </doc>
+  <doc>
+    <field name="id">297</field>
+    <field name="NAME">कृपाचार्</field>
+  </doc>
+  <doc>
+    <field name="id">298</field>
+    <field name="NAME">अश्वत्थामा</field>
+  </doc>
+  <doc>
+    <field name="id">299</field>
+    <field name="NAME">विकर्</field>
+  </doc>
+  <doc>
+    <field name="id">300</field>
+    <field name="KING">सोमदत्</field>
+  </doc>
+  <doc>
+    <field name="id">301</field>
+    <field name="NAME">भूरिश्रवा</field>
+  </doc>
+  <doc>
+    <field name="id">302</field>
+    <field name="WARRIORS">योद्धा</field>
+  </doc>
+  <doc>
+    <field name="id">303</field>
+    <field name="WARRIORS">Pandava’s side</field>
+  </doc>
+  <doc>
+    <field name="id">304</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">305</field>
+    <field name="NAME">Drona</field>
+  </doc>
+  <doc>
+    <field name="id">306</field>
+    <field name="EMOTIONS">scared</field>
+  </doc>
+  <doc>
+    <field name="id">307</field>
+    <field name="EMOTIONS">angered</field>
+  </doc>
+  <doc>
+    <field name="id">308</field>
+    <field name="POSITION_IN_ARMY">main commander</field>
+  </doc>
+  <doc>
+    <field name="id">309</field>
+    <field name="CHARACTERESTICS">powerful</field>
+  </doc>
+  <doc>
+    <field name="id">310</field>
+    <field name="NATURE">good</field>
+  </doc>
+  <doc>
+    <field name="id">311</field>
+    <field name="NATURE">evil</field>
+  </doc>
+  <doc>
+    <field name="id">312</field>
+    <field name="CHARACTERESTICS">good qualities</field>
+  </doc>
+  <doc>
+    <field name="id">313</field>
+    <field name="CHARACTERESTICS">bad qualities</field>
+  </doc>
+  <doc>
+    <field name="id">314</field>
+    <field name="COLLECTION">Gita</field>
+  </doc>
+  <doc>
+    <field name="id">315</field>
+    <field name="SUBJECT">three qualities</field>
+  </doc>
+  <doc>
+    <field name="id">316</field>
+    <field name="SUBJECT">tendencies</field>
+  </doc>
+  <doc>
+    <field name="id">317</field>
+    <field name="DESCRIPTION">a tendency that draws us towards inertia</field>
+  </doc>
+  <doc>
+    <field name="id">318</field>
+    <field name="DESCRIPTION">that draws us to action</field>
+  </doc>
+  <doc>
+    <field name="id">319</field>
+    <field name="DESCRIPTION">that draws us to equanimity</field>
+  </doc>
+  <doc>
+    <field name="id">320</field>
+    <field name="DESCRIPTION">harmony</field>
+  </doc>
+  <doc>
+    <field name="id">321</field>
+    <field name="CONNOTATION">भावार्थ</field>
+  </doc>
+</add>

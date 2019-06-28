@@ -1,0 +1,122 @@
+<add>
+  <doc>
+    <field name="id">322</field>
+    <field name="VERSE_NUMBER">Verse 9</field>
+  </doc>
+  <doc>
+    <field name="id">323</field>
+    <field name="WARRIORS">शूरा</field>
+  </doc>
+  <doc>
+    <field name="id">324</field>
+    <field name="NATURE">युद्धविशारदा:</field>
+  </doc>
+  <doc>
+    <field name="id">325</field>
+    <field name="MEANING_OF_TEXT">Also, there are many other heroic warriors, who are prepared to lay down their lives for my sake. They are all skilled in the art of warfare, and equipped with various kinds of weapons.</field>
+  </doc>
+  <doc>
+    <field name="id">326</field>
+    <field name="NATURE">heroic</field>
+  </doc>
+  <doc>
+    <field name="id">327</field>
+    <field name="CHARACTERESTICS">skilled</field>
+  </doc>
+  <doc>
+    <field name="id">328</field>
+    <field name="ORIGINAL">अन्ये च बहव: शूरा मदर्थे त्यक्तजीविता: | नानाशस्त्रप्रहरणा: सर्वे युद्धविशारदा: || 9|</field>
+  </doc>
+  <doc>
+    <field name="id">329</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">330</field>
+    <field name="NAME">Drona</field>
+  </doc>
+  <doc>
+    <field name="id">331</field>
+    <field name="CHARACTERESTICS">ego</field>
+  </doc>
+  <doc>
+    <field name="id">332</field>
+    <field name="SPECIAL_MEANING">mine-making</field>
+  </doc>
+  <doc>
+    <field name="id">333</field>
+    <field name="SPECIAL_MEANING">“mine-ness</field>
+  </doc>
+  <doc>
+    <field name="id">334</field>
+    <field name="ORIGINAL">Mamataa</field>
+  </doc>
+  <doc>
+    <field name="id">335</field>
+    <field name="CHARACTERESTICS">heroic</field>
+  </doc>
+  <doc>
+    <field name="id">336</field>
+    <field name="CHARACTERESTICS">skilled</field>
+  </doc>
+  <doc>
+    <field name="id">337</field>
+    <field name="WARRIORS">शूरवीर</field>
+  </doc>
+  <doc>
+    <field name="id">338</field>
+    <field name="CHARACTERESTICS">निपुण</field>
+  </doc>
+  <doc>
+    <field name="id">339</field>
+    <field name="TIME">युद्ध-विधा</field>
+  </doc>
+  <doc>
+    <field name="id">340</field>
+    <field name="NAME">Drona</field>
+  </doc>
+  <doc>
+    <field name="id">341</field>
+    <field name="NAME">Duryodhana</field>
+  </doc>
+  <doc>
+    <field name="id">342</field>
+    <field name="CHARACTERESTICS">ego</field>
+  </doc>
+  <doc>
+    <field name="id">343</field>
+    <field name="SUBJECT">evidenced</field>
+  </doc>
+  <doc>
+    <field name="id">344</field>
+    <field name="DESCRIPTION">they will give up their life for me</field>
+  </doc>
+  <doc>
+    <field name="id">345</field>
+    <field name="CHARACTERESTICS">poised</field>
+  </doc>
+  <doc>
+    <field name="id">346</field>
+    <field name="GLOSSARY">Mamataa</field>
+  </doc>
+  <doc>
+    <field name="id">347</field>
+    <field name="WORD_MEANING">mine-making</field>
+  </doc>
+  <doc>
+    <field name="id">348</field>
+    <field name="WORD_MEANING">“mine-ness</field>
+  </doc>
+  <doc>
+    <field name="id">349</field>
+    <field name="GLOSSARY">mamataa</field>
+  </doc>
+  <doc>
+    <field name="id">350</field>
+    <field name="WORD_MEANING">mine</field>
+  </doc>
+  <doc>
+    <field name="id">351</field>
+    <field name="CONNOTATION">भावार्थ</field>
+  </doc>
+</add>

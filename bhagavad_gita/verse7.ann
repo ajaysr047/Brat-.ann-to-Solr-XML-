@@ -1,0 +1,31 @@
+T1	VERSE_NUMBER 33 40	Verse 7
+T2	ORIGINAL 44 89;90 140	अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || 7||
+T3	NAME 402 413	Dronacharya
+T4	PLACE 497 508	battlefield
+T5	TITLE 523 533	commanders
+T6	NAME 541 548	Kaurava
+T7	NATURE 625 632	Cunning
+T8	CHARACTERESTICS 825 830	valor
+T9	PLACE 963 969	palace
+T10	NAME 1115 1122	Kaurava
+T11	POSITION_IN_ARMY 90 95	नायका
+T12	POSITION_IN_ARMY 290 308	principal generals
+T13	PURPOSE 351 358	to lead
+T14	CHARACTERESTICS 341 350	qualified
+T15	WARRIORS 525 533	योद्धाओं
+T16	CHARACTERESTICS 449 458	शक्तिशाली
+T17	NAME 575 586	Dronacharya
+T18	SUBJECT 604 620	military science
+T19	POSITION_IN_ARMY 692 706	the commanders
+T20	REFERING_DYNASTY 714 721	Kaurava
+T21	PLACE 670 681	battlefield
+T22	NAME 740 750	Duryodhana
+T23	NATURE 798 805	Cunning
+T24	EMOTIONS 768 775	loyalty
+T25	SUBJECT 855 865	dwijottama
+T26	DESCRIPTION 867 907	best amongst the twice-born, or Brahmins
+T27	CHARACTERESTICS 998 1003	valor
+T28	PLACE 1129 1142	king’s palace
+T29	POSITION_IN_ARMY 1264 1272	generals
+T30	NATURE 1258 1263	great
+T31	CONNOTATION 391 398	भावार्थ
