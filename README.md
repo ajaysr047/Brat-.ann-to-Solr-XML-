@@ -1,2 +1,2 @@
 # Brat-.ann-to-Solr-XML-
-Annotation files from brat to XML for Solr indexing
+Annotation files(.ann) from brat tool to XML for Solr indexing
