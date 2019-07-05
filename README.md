@@ -6,7 +6,8 @@ bin/solr restart -c -p 8983 -s example/cloud/node1/solr
 
 bin/solr restart -c -p 7574 -z localhost:9983 -s example/cloud/node2/solr
 
-##  Changes to be made for your solr
+##  Changes to be made to match your solr indexing
+
 Collection name and the port number as per your configuration
 
 URL for query
